@@ -6,6 +6,7 @@
    ^ React
    ^ Vue
    ^ Angular
+   ^ Svelte
 -struktur data dasar
 -php framework
 -interview
